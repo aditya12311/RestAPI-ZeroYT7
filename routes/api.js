@@ -13,9 +13,9 @@ var creatorList = ['Adit API']; // Nama Lu Ngab
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)]; // Ini jan diubah
 var key = 'Aditkey' // Apikey Lu Ngab
 
-var creatorList = ['Adit API];
-var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
-var key = 'zeroyt7' // boleh di ubah
+//var creatorList = ['Adit API];
+//var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
+//var key = 'zeroyt7' // boleh di ubah
 
 // Required Modules :
 var ffmpeg = require('fluent-ffmpeg');
