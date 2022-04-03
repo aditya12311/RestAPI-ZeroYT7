@@ -6,16 +6,16 @@ var db = require(__path + '/database/db');
 try {
 var kuhong = db.get('ojan'); // jan diubah
 } catch (e) {
-	console.log('WELCOME TO ADIT API!') // boleh diubah
+	console.log('Zxx api') // boleh diubah
 }
 
-var creatorList = ['Adit API']; // Nama Lu Ngab
+var creatorList = ['Zxx API']; // Nama Lu Ngab
 var creator = creatorList[Math.floor(Math.random() * creatorList.length)]; // Ini jan diubah
 var key = 'Aditkey' // Apikey Lu Ngab
 
 //var creatorList = ['Adit API];
 //var creator = creatorList[Math.floor(Math.random() * creatorList.length)];
-//var key = 'zeroyt7' // boleh di ubah
+//var key = 'zxx' // boleh di ubah
 
 // Required Modules :
 var ffmpeg = require('fluent-ffmpeg');
